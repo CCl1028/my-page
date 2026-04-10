@@ -6,7 +6,7 @@ export default defineConfig({
   description: '个人技术笔记 · 项目展示',
 
   // GitHub Pages 部署路径
-  base: '/dev-notes/',
+  base: '/my-page/',
 
   // 语言
   lang: 'zh-CN',
@@ -47,7 +47,7 @@ export default defineConfig({
         ],
       },
       { text: '关于我', link: '/about' },
-      { text: 'GitHub', link: 'https://github.com/your-username/dev-notes' },
+      { text: 'GitHub', link: 'https://github.com/CCl1028/my-page' },
     ],
 
     // 侧边栏
@@ -123,7 +123,7 @@ export default defineConfig({
 
     // 编辑链接
     editLink: {
-      pattern: 'https://github.com/CCl1028/dev-notes/edit/main/docs/:path',
+      pattern: 'https://github.com/CCl1028/my-page/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页',
     },
 
