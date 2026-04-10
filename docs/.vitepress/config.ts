@@ -47,7 +47,7 @@ export default defineConfig({
         ],
       },
       { text: '关于我', link: '/about' },
-      { text: 'GitHub', link: 'https://github.com/CCl1028/my-page' },
+      { text: 'GitHub', link: 'https://github.com/CCl1028' },
     ],
 
     // 侧边栏
