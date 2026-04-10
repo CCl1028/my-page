@@ -60,6 +60,7 @@ export default defineConfig({
             { text: '概览', link: '/notes/frontend/' },
             { text: 'Vue3 组合式 API 实践总结', link: '/notes/frontend/vue3-composition-api' },
             { text: 'TypeScript 在项目中的实战经验', link: '/notes/frontend/typescript-in-practice' },
+            { text: '微信小程序 wx:key 踩坑记录', link: '/notes/frontend/wechat-miniprogram-wx-key' },
           ],
         },
       ],
