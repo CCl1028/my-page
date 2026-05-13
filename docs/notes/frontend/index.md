@@ -4,8 +4,6 @@
 
 ## 文章列表
 
-- [Vue3 组合式 API 实践总结](./vue3-composition-api) — 从 Options API 迁移到 Composition API 的实战经验
-- [TypeScript 在项目中的实战经验](./typescript-in-practice) — 类型体操之外，真正有用的 TS 技巧
 - [微信小程序 wx:key 踩坑记录](./wechat-miniprogram-wx-key) — wx:key 的常见误用与正确姿势
 - [小程序粒子动效的性能优化实践](./小程序粒子动效的性能优化实践) — 从「越播越卡」到稳定 60fps 的完整优化过程
 - [小程序 Canvas 2D 实现超长帧动画循环播放](./小程序Canvas-2D实现超长帧动画循环播放) — 400 帧动画的分批加载与 Canvas 逐帧绘制方案

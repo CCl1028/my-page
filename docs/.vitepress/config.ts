@@ -58,8 +58,6 @@ export default defineConfig({
           text: '前端开发',
           items: [
             { text: '概览', link: '/notes/frontend/' },
-            { text: 'Vue3 组合式 API 实践总结', link: '/notes/frontend/vue3-composition-api' },
-            { text: 'TypeScript 在项目中的实战经验', link: '/notes/frontend/typescript-in-practice' },
             { text: '微信小程序 wx:key 踩坑记录', link: '/notes/frontend/wechat-miniprogram-wx-key' },
             { text: '小程序粒子动效的性能优化实践', link: '/notes/frontend/小程序粒子动效的性能优化实践' },
             { text: '小程序 Canvas 2D 实现超长帧动画循环播放', link: '/notes/frontend/小程序Canvas-2D实现超长帧动画循环播放' },
